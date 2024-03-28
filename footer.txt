@@ -1,0 +1,6 @@
+
+<div id="footer">
+    <section class="gray">
+        <div class="text-center">Tilang online : http://tilang.pn-jakartatimur.go.id</div>
+    </section>
+</div>
