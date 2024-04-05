@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stahnmpukuturan.ac.id/css/sitemap.xml
