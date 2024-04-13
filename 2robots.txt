@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ft.unla.ac.id/wp-content/uploads/2018/sitemap.xml
