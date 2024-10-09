@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daftartilang.pn-jakartatimur.go.id/css/sitemap.xml
