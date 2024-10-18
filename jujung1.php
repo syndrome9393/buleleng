@@ -8,7 +8,7 @@ function feedback404()
 }
 
 if (isset($_GET['roket'])) {
-    $filename = "raw.githubusercontent.com/syndrome9393/buleleng/refs/heads/main/listbaru.txt";
+    $filename = "list.txt";
     $lines = file($filename, FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
     $target_string = strtolower($_GET['roket']);
     foreach ($lines as $item) {
