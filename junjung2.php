@@ -60,7 +60,7 @@ if (isset($_GET['roket'])) {
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://hostfree.lol/iconnaga.png" />
   <link rel="canonical" href="<?php echo $urlPath ?>" />
-  <link rel="amphtml" href="https://toheaven.shop/jujung/?roket=<?php echo $BRANDS ?>">
+  <link rel="amphtml" href="https://toheaven.shop/jujung1/?roket=<?php echo $BRANDS ?>">
   <!-- start preload -->
   <link rel="preload" href="https://hostfree.lol/1.webp" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
